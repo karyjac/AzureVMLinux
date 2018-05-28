@@ -2,4 +2,6 @@
 
 Testing the ARM Template
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+<a href="httpshttps://github.com/karyjac/AzureVMUbuntu/blob/master/UbuntuDeploy.json" target="_blank">
+    <img src="https://azuredeploy.net/deploybutton.png"/>
+</a>
