@@ -1,2 +1,3 @@
-# AzureVMLinux
-Repository of Standard Linux VM's
+# AzureVMLinux - Simple Ubuntu Server
+
+Testing the ARM Template
